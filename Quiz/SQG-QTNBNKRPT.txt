@@ -1,0 +1,203 @@
+    Question Bank Report      
+-------------------------------
+
+Question Category :: GenKnowlg
+Question Id       :: 10001
+Question Text     :: Who was our first prime minister        
+Answer Option 1   :: Indira Gandhi                                     
+Answer Option 2   :: Mahatma Gandhi                                    
+Answer Option 3   :: Rahul Gandhi                                      
+Answer Option 4   :: Jawaharlal Neheru                                 
+Correct Option    :: 4
+Allotted Marks    :: 10
+
+Question Category :: GenKnowlg
+Question Id       :: 10002
+Question Text     :: What is the capital of India            
+Answer Option 1   :: Delhi                                             
+Answer Option 2   :: Kolkata                                           
+Answer Option 3   :: Ahmedabad                                         
+Answer Option 4   :: Chandigarh                                        
+Correct Option    :: 1
+Allotted Marks    :: 10
+
+Question Category :: Bollywood
+Question Id       :: 10003
+Question Text     :: Who was hero of Don (2006)              
+Answer Option 1   :: Amitabh Bachchan                                  
+Answer Option 2   :: Shaharukh Khan                                    
+Answer Option 3   :: Ajay Devgan                                       
+Answer Option 4   :: Hritwik Roshan                                    
+Correct Option    :: 2
+Allotted Marks    :: 10
+
+Question Category :: GenKnowlg
+Question Id       :: 10004
+Question Text     :: What is the full form of MP?            
+Answer Option 1   :: Member of Post Office                             
+Answer Option 2   :: Mighty Passenger                                  
+Answer Option 3   :: Member of Parliament                              
+Answer Option 4   :: Motivated Person                                  
+Correct Option    :: 3
+Allotted Marks    :: 10
+
+Question Category :: Sports   
+Question Id       :: 10005
+Question Text     :: 2010 Commonwealth game held in          
+Answer Option 1   :: Canada                                            
+Answer Option 2   :: India                                             
+Answer Option 3   :: Africa                                            
+Answer Option 4   :: China                                             
+Correct Option    :: 2
+Allotted Marks    :: 10
+
+Question Category :: Sports   
+Question Id       :: 10006
+Question Text     :: The term Googly is associated with      
+Answer Option 1   :: Hockey                                            
+Answer Option 2   :: Cricket                                           
+Answer Option 3   :: Badminton                                         
+Answer Option 4   :: Football                                          
+Correct Option    :: 2
+Allotted Marks    :: 10
+
+Question Category :: Sports   
+Question Id       :: 10007
+Question Text     :: Krishna Punia is associated with        
+Answer Option 1   :: Football                                          
+Answer Option 2   :: Cricket                                           
+Answer Option 3   :: Chess                                             
+Answer Option 4   :: Ludo                                              
+Correct Option    :: 3
+Allotted Marks    :: 10
+
+Question Category :: Sports   
+Question Id       :: 10008
+Question Text     :: In 1924, first winter Olympics held in  
+Answer Option 1   :: Italy                                             
+Answer Option 2   :: France                                            
+Answer Option 3   :: India                                             
+Answer Option 4   :: London                                            
+Correct Option    :: 2
+Allotted Marks    :: 10
+
+Question Category :: Polity   
+Question Id       :: 10009
+Question Text     :: World's second largest judicial complex 
+Answer Option 1   :: Gauhati High Court                                
+Answer Option 2   :: Madras High Court                                 
+Answer Option 3   :: Bombay High Court                                 
+Answer Option 4   :: Kolkata High Court                                
+Correct Option    :: 2
+Allotted Marks    :: 10
+
+Question Category :: Polity   
+Question Id       :: 10010
+Question Text     :: First General Election held in India in 
+Answer Option 1   :: 1950                                              
+Answer Option 2   :: 1951                                              
+Answer Option 3   :: 1952                                              
+Answer Option 4   :: 1953                                              
+Correct Option    :: 2
+Allotted Marks    :: 10
+
+Question Category :: Polity   
+Question Id       :: 10011
+Question Text     :: Who defeated Indira Gandhi in Lok sabha 
+Answer Option 1   :: Ram Manohar Lohia                                 
+Answer Option 2   :: Morarji Desai                                     
+Answer Option 3   :: Raj Narain                                        
+Answer Option 4   :: Lal Bahadur Shastri                               
+Correct Option    :: 3
+Allotted Marks    :: 10
+
+Question Category :: Polity   
+Question Id       :: 10012
+Question Text     :: President address his resignation to    
+Answer Option 1   :: Speaker                                           
+Answer Option 2   :: Vice President                                    
+Answer Option 3   :: Chief Justice                                     
+Answer Option 4   :: Prime Minister                                    
+Correct Option    :: 2
+Allotted Marks    :: 10
+
+Question Category :: Computing
+Question Id       :: 10013
+Question Text     :: Android used in mobile phone is         
+Answer Option 1   :: Operating System                                  
+Answer Option 2   :: Utility                                           
+Answer Option 3   :: Programming Language                              
+Answer Option 4   :: Compiler                                          
+Correct Option    :: 1
+Allotted Marks    :: 10
+
+Question Category :: Computing
+Question Id       :: 10014
+Question Text     :: What stands for HTML                    
+Answer Option 1   :: Hypertext Markup Language                         
+Answer Option 2   :: High level mobile language                        
+Answer Option 3   :: HighTide Markup Language                          
+Answer Option 4   :: Hint Taking Mobile language                       
+Correct Option    :: 1
+Allotted Marks    :: 10
+
+Question Category :: Computing
+Question Id       :: 10015
+Question Text     :: Bit stands for                          
+Answer Option 1   :: Digits                                            
+Answer Option 2   :: Single Octal Digit                                
+Answer Option 3   :: Single Binary Digit                               
+Answer Option 4   :: Single Hex Digit                                  
+Correct Option    :: 3
+Allotted Marks    :: 10
+
+Question Category :: Computing
+Question Id       :: 10016
+Question Text     :: Binary Search uses                      
+Answer Option 1   :: Partitioning method                               
+Answer Option 2   :: Divide and Conquer Method                         
+Answer Option 3   :: Linear selection Method                           
+Answer Option 4   :: Index Identification Method                       
+Correct Option    :: 2
+Allotted Marks    :: 10
+
+Question Category :: Bollywood
+Question Id       :: 10017
+Question Text     :: Who was Salim Khan?                     
+Answer Option 1   :: Film Director                                     
+Answer Option 2   :: Music Director                                    
+Answer Option 3   :: Script Writer                                     
+Answer Option 4   :: Film Producer                                     
+Correct Option    :: 3
+Allotted Marks    :: 10
+
+Question Category :: Bollywood
+Question Id       :: 10018
+Question Text     :: Bandit Queen was directed by ..         
+Answer Option 1   :: Shekhar Kapoor                                    
+Answer Option 2   :: Raj Kapoor                                        
+Answer Option 3   :: Anurag Basu                                       
+Answer Option 4   :: Karan Johar                                       
+Correct Option    :: 1
+Allotted Marks    :: 10
+
+Question Category :: Sports   
+Question Id       :: 10019
+Question Text     :: Players in Basket Ball team?            
+Answer Option 1   :: 7                                                 
+Answer Option 2   :: 6                                                 
+Answer Option 3   :: 5                                                 
+Answer Option 4   :: 11                                                
+Correct Option    :: 3
+Allotted Marks    :: 10
+
+Question Category :: GenKnowlg
+Question Id       :: 10020
+Question Text     :: How many bones in human baby?           
+Answer Option 1   :: 200                                               
+Answer Option 2   :: 300                                               
+Answer Option 3   :: 206                                               
+Answer Option 4   :: 350                                               
+Correct Option    :: 2
+Allotted Marks    :: 10
+
